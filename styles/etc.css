@@ -130,3 +130,58 @@ img {
     font-size: 20px;
     color: rgba(0, 0, 0, 0.5);
 }
+
+.t-section {
+    display: flex;
+    padding: 71px 0px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.ttitle {
+    font-size: 97px;
+    font-weight: bold;
+    padding: 200px 0px 200px;
+
+
+}
+
+.d-input {
+    padding: 71px 0px;
+}
+
+.common-input {
+    width: 497px;
+    height: 70px;
+    border-radius: 10px;
+    border-color: rgba(214, 221, 237, 0.5);
+    padding-left: 32px;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 19px;
+}
+
+.second-input {
+    width: 497px;
+    height: 135px;
+    border-radius: 10px;
+    border-color: rgba(214, 221, 237, 0.5);
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 19px;
+    padding-left: 32px;
+}
+
+.tbutton {
+    width: 532px;
+    height: 62px;
+    background-color: #4e47ff;
+    color: white;
+    font-size: 16px;
+    border-radius: 10px;
+    border: 0;
+}
+
+.tcommon {
+    font-size: 18px;
+}
