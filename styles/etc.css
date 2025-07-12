@@ -1,0 +1,65 @@
+.inter-normal {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+
+.raleway-normal {
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+}
+
+.primarytextcolor {
+    color: #4e47ff;
+
+}
+
+.background {
+    background-image: url('/Assignment/Assets/Hero-bg.png');
+}
+
+h2 {
+    font-weight: 900;
+    font-size: 34px;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+
+#banbtn {
+    margin-top: 51.5px;
+    margin-right: 150px;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.btn {
+    background-color: #4e47ff;
+    color: white;
+    padding: 12px 36px 12px;
+    font-size: 16px;
+    border-radius: 10px;
+    border: 0;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 65px;
+    text-align: center;
+}
+
+.banner {
+    text-align: center;
+    margin-top: 309px;
+    margin-left: 267.5px;
+    margin-right: 267.5px;
+
+}
