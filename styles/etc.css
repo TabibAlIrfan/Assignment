@@ -50,6 +50,11 @@ nav {
     border: 0;
 }
 
+main {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
 h1 {
     font-weight: bold;
     font-size: 65px;
@@ -62,4 +67,32 @@ h1 {
     margin-left: 267.5px;
     margin-right: 267.5px;
 
+}
+
+.h-action {
+    font-size: 42px;
+    font-weight: bold;
+}
+
+.p-action {
+    font-size: 24px;
+    color: rgba(37, 36, 50, 0.5);
+
+}
+
+.d-action {
+    width: 517px;
+    height: 203px;
+}
+
+.s-action {
+    width: 1140px;
+    height: 328px;
+    margin: 116px 141px;
+    display: flex;
+    justify-content: space-between;
+}
+
+img {
+    border-radius: 48px;
 }
